@@ -20,4 +20,4 @@ services:
         max_attempts: 5
         window: 30s
     ports:
-      - "9000:9000"
+      - "9000"
